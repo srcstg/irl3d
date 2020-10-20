@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Materials/dvd/Easy Character Movement/Walkthrough/13 - Over The Shoulder
+    Camera Movement/example_scene.unity
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
