@@ -852,6 +852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: aim_button
       objectReference: {fileID: 0}
+    - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114202488689447906, guid: 3bd91fcf134aac744a9ef7d2134d9e7b,
         type: 3}
       propertyPath: m_Text
@@ -1005,7 +1009,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
       propertyPath: m_Name
@@ -1581,7 +1585,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &852927151
 Transform:
   m_ObjectHideFlags: 0
@@ -1806,7 +1810,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1060295972
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1875,6 +1879,10 @@ PrefabInstance:
     - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
       propertyPath: m_Name
       value: fly_button
+      objectReference: {fileID: 0}
+    - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114202488689447906, guid: 3bd91fcf134aac744a9ef7d2134d9e7b,
         type: 3}
@@ -2290,12 +2298,12 @@ PrefabInstance:
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -495
+      value: 257.37
       objectReference: {fileID: 0}
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 45
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
@@ -2336,6 +2344,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.9225
+      objectReference: {fileID: 0}
+    - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.9225
+      objectReference: {fileID: 0}
+    - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.9225
       objectReference: {fileID: 0}
     - target: {fileID: 224487000788613732, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
@@ -2902,6 +2925,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: swap_shoulder_button
       objectReference: {fileID: 0}
+    - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114202488689447906, guid: 3bd91fcf134aac744a9ef7d2134d9e7b,
         type: 3}
       propertyPath: m_Text
@@ -3053,7 +3080,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1497296885177200, guid: 3bd91fcf134aac744a9ef7d2134d9e7b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114202488689447906, guid: 3bd91fcf134aac744a9ef7d2134d9e7b,
         type: 3}
@@ -3612,7 +3639,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
