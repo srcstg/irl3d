@@ -1631,7 +1631,7 @@ PrefabInstance:
     - target: {fileID: 114076058858211136, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_Color.a
-      value: 0.5882353
+      value: 0.6392157
       objectReference: {fileID: 0}
     - target: {fileID: 114787081377347702, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
@@ -1642,7 +1642,7 @@ PrefabInstance:
     - target: {fileID: 114787081377347702, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_Color.a
-      value: 0.5882353
+      value: 0.21960784
       objectReference: {fileID: 0}
     - target: {fileID: 114918438525371226, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
@@ -1717,12 +1717,12 @@ PrefabInstance:
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 257.37
+      value: 151
       objectReference: {fileID: 0}
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 70
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
@@ -1767,17 +1767,17 @@ PrefabInstance:
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.9225
+      value: 1.0064288
       objectReference: {fileID: 0}
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.9225
+      value: 1.0064288
       objectReference: {fileID: 0}
     - target: {fileID: 224426381461569196, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.9225
+      value: 1.0064288
       objectReference: {fileID: 0}
     - target: {fileID: 224487000788613732, guid: d2e4ad3c8f34a7a4a91d8ffe780e9211,
         type: 3}
@@ -1824,7 +1824,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1379245236}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!124 &1379245238
 Behaviour:
   m_ObjectHideFlags: 0
@@ -2734,7 +2734,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1853632852}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -504.2, y: 0, z: -507.6}
+  m_LocalPosition: {x: -62.5, y: 0.53, z: -77.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
