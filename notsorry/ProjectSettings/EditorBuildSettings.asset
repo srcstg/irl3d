@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/3rdPerson+Fly(Mobile)/Scenes/3rdPerson+Fly(touchscreen-cam).unity
     guid: 82c8bafeb6f17a44c9197ab4cb088adc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/notsorry00.unity
     guid: 99b53b85421490f459b7354ca1bb4590
+  - enabled: 1
+    path: Assets/Scenes/notsorry01.unity
+    guid: d2e98a169b7136c40b63cb89c9fd31c3
   m_configObjects: {}
